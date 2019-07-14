@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/dll/dll/Debug
+END
+stdafx.obj
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/dll/dll/Debug/stdafx.obj
+END
+dll.dll.intermediate.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/dll/dll/Debug/dll.dll.intermediate.manifest
+END
+dll.pch
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/dll/dll/Debug/dll.pch
+END
+dll.obj
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/dll/dll/Debug/dll.obj
+END
+vc90.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/dll/dll/Debug/vc90.pdb
+END
+dll.dll.embed.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/dll/dll/Debug/dll.dll.embed.manifest
+END
+mt.dep
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/dll/dll/Debug/mt.dep
+END
+BuildLog.htm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/dll/dll/Debug/BuildLog.htm
+END
+dllmain.obj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/dll/dll/Debug/dllmain.obj
+END
+dll.dll.embed.manifest.res
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/dll/dll/Debug/dll.dll.embed.manifest.res
+END
+vc90.idb
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/dll/dll/Debug/vc90.idb
+END
